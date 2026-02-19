@@ -1,3 +1,3 @@
 echocosm icon repo
 
-<link rel="shortcut icon" type="image/x-icon" href="/icon.ico" -->
+<link rel="icon" type="image/x-icon" href="/icon.ico" -->
